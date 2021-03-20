@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Pong-Version2-.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\Phili\OneDrive\Desktop\Programing suit\Classes\CST 326 Game development\New Unity Project\Pong-Version2-\.idea\.idea.Pong-Version2-\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
